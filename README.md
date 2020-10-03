@@ -2,3 +2,4 @@
 
 * This is a first test for an OFJ contribution
 * repository is empty holding nothing
+* test
